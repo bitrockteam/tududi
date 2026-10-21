@@ -139,7 +139,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.106.0",
     "@dr.pogodin/csurf": "^1.16.9",
-    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@playwright/test": "^1.57.0",
     "axios": "^1.16.0",
     "bcrypt": "~6.0.0",
